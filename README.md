@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for a job as a JavaScript base developer in New Zealand ...
 - 🌱 I’m currently learning Java, React and AWS ...
 
-<!-- This is commented out. -->
+<!-- 
 - 😄 I’m developing some projects, please visit my Website ... https://www.crystalclzz.com/
-- <!-- This is commented out. -->
+ -->
 
 - 💬 I’m hoping to talk with you ...
 
