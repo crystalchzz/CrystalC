@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 **Crystal** is a ✨ _highly competent_ ✨ Software Developer. She is ready to work !
-
+<!-- 
 <i>Follow me:</i><br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/crystal-chan-059281147/)
 
+ -->
 ---
 
 Here are some ideas to get you started:
